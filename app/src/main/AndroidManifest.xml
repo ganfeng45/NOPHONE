@@ -37,9 +37,9 @@
 
         <activity android:name=".stoppl" />
         <activity android:name=".timelm" />
-        <activity android:name=".timest" />
+        <activity android:name=".MainActivity" />
         <activity android:name=".UsageStatisticsFragment" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".timest">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
