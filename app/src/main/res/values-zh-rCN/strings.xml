@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Time</string>
+    <string name="button_settings_wallpaper">设置壁纸</string>
+    <string name="button_usage">App排名</string>
+    <string name="button_donate">打赏</string>
+    <string name="button_update">读我</string>
+    <string name="used_hint">已使用</string>
+    <string name="tips_title">提示</string>
+    <string name="bottom_distance_title">底部距离</string>
+    <string name="tip1_title">提示1</string>
+    <string name="tip2_title">提示2</string>
+    <string name="tip3_title">提示3</string>
+    <string name="tip4_title">提示4</string>
+    <string name="bottom_summary_format">有效范围: 0~%d, 当前值: %d</string>
+    <string name="menu_setting">设置</string>
+    <string name="colors_title">颜色</string>
+    <string name="colors_summary">颜色变化</string>
+    <string name="try_press">长按试试...</string>
+
+</resources>

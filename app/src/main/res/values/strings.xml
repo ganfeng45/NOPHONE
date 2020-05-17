@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Time</string>
+    <string name="button_settings_wallpaper">SET WALLPAPER</string>
+    <string name="button_usage">USAGE INFO</string>
+    <string name="button_update">README</string>
+    <string name="button_donate">DONATE</string>
+
+    <string name="used_hint">Used</string>
+    <string name="bottom_distance_title">Bottom distance</string>
+    <string name="bottom_distance" translatable="false">24</string>
+
+    <string name="tips_title">Tips</string>
+    <string name="tip1_title">Tip1</string>
+    <string name="tip2_title">Tip2</string>
+    <string name="tip3_title">Tip3</string>
+    <string name="tip4_title">Tip4</string>
+    <string name="tip1" translatable="false">1</string>
+    <string name="tip2" translatable="false">1</string>
+    <string name="tip3" translatable="false">1</string>
+    <string name="tip4" translatable="false">1</string>
+
+    <string name="menu_setting">Setting</string>
+    <string name="bottom_summary_format">Range: 0~%d, now: %d</string>
+    <string name="colors_title">Colors</string>
+    <string name="colors_summary">The colors below change with the time you use your phone</string>
+
+    <string name="try_press">Try Press Long …</string>
+
+    <string name="time_span">Time</string>
+
+    <string name="app_info">防沉迷应用...</string>
+
+
+</resources>
